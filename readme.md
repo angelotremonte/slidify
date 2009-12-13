@@ -26,11 +26,13 @@ Usage:
 	
 	$(document).ready(function() {
 		$(".example").slidify({
-			width: 400,
-			maxValue: 200,
-			callback: function(results) { 
-				alert(results);
-			}
+            width: 400,
+            height: 20,
+			// wrapperClass/sliderClass are provided by default, no need to specify if you don't want
+            wrapperClass: "slidify_slider_container",
+            sliderClass: "slidify_slider_knob",
+            maxValue: 500,
+            callback: null 
 		});
 	});
 
