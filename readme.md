@@ -21,8 +21,8 @@ Keep it simple and sweet, right? ;)
 
 Usage:
 -----------------------------------------------------------------------------
-    &lt;input type="text" value="0" name="lol" id="lol" class="example"&gt;
-    &lt;input type="text" value="0" name="lol2" id="lol2" class="example"&gt;
+    <input type="text" value="0" name="lol" id="lol" class="example">
+    <input type="text" value="0" name="lol2" id="lol2" class="example">
 	
 	$(document).ready(function() {
 		$(".example").slidify({
