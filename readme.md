@@ -1,3 +1,26 @@
+This project is now deprecated.
+-------------------------------------------------------------------------------
+Hey-o,
+
+Thanks to everyone who showed support for Slidify in the short time it was alive.
+As the author, I've hit a point where my time is fairly limited, due to other
+projects (Twython, Luno, work, etc). There's simply no way that I can maintain this
+on top of every other project I work on.
+
+That said, since it's open source, I'm leaving the repository up. Feel free to use
+it as a guide for building jQuery plugins or something - alternatively, if you'd
+like to fork and take over the project, be my guest.
+
+Anybody looking for kickass UI Slider controls should hit up jQuery UI, YUI, or Dojo.
+The amount of logic that goes into building this seemingly simple control can actually
+be staggering, and they've got some of the brightest minds in the Javascript community
+hammering on the issues. Trust them.
+
+~ Ryan McGrath
+
+
+
+
 Slidify - Lightweight jQuery UI sliders
 -------------------------------------------------------------------------------
 Sliders are a great tool to have, because they help show a relationship between
